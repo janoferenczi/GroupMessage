@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Group Message</string>
+
+
+    <!-- ACTIVITYES -->
+    <string name="title_activity_city">Települések</string>
+    <string name="title_activity_history">Előzmények</string>
+    <string name="title_activity_persons">Személyek</string>
+
+    <string name="message_hint">Üzenet...</string>
+    <string name="action_next">Tovább</string>
+    <string name="action_send">Küldés</string>
+    <string name="update_database">Adatbázis frissítése</string>
+    <string name="history">Előzmények</string>
+    <string name="choose_send_methdo">Válaszd ki a küldés módját</string>
+    <string name="cityes">Települések</string>
+    <string name="persons">Személyek</string>
+    <string name="data_loading">Adatok betöltése az adabázisba</string>
+    <string name="forward">Ujraküld</string>
+    <string name="delete_message">Szeretné törölni?</string>
+    <string name="yes">Igen</string>
+    <string name="no">Nem</string>
+    <string name="really">Biztos el akarod kuldeni?</string>
+    <string name="sending_messages">Üzenetek küldése, kérlek várj.</string>
+    <string name="all">Mind</string>
+    <string name="none">Egyse</string>
+    <string name="wrong_file">Rossz filet választottál ki</string>
+    <string name="only_local_files">Csak a telefonrol választhatsz ki fileokat</string>
+    <string name="send_finished">Az üzenetek küldése véget ért</string>
+</resources>
